@@ -1,0 +1,2 @@
+Model Score = 0.9666666666666667
+10 Fold Cross Validation Score = 0.11547005383792515
